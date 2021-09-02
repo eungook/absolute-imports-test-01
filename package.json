@@ -1,5 +1,5 @@
 {
-  "name": "root-test-01",
+  "name": "absolute-imports-test-01",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
